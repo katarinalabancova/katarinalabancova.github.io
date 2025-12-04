@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>reach me at katarina.labancova@unige.ch</p>
+  # more_info: >
+    # <p>reach me at katarina.labancova@unige.ch</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,9 +25,8 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD candidate in Neuroscience at University of Geneva studying neural mechanisms of 
-integration, compression, and compositionality in language.
+PhD candidate in Neuroscience at University of Geneva studying neural mechanisms of integration, compression, and compositionality in language.
 
-Currently researching neural mechanisms of binding: How are two representations integrated into one? Can the same process be applied accross multiple levels of hierarchy to form increasingly complex representations? Is the contained information represented in a compressed format? Using MEG and a combination of anadecoding and oscillation analyses, I aim to discover what neural activity supports this process during langauge comprehension.
+Currently researching neural mechanisms of binding: How are two representations integrated into one? Can the same process be applied accross multiple levels of hierarchy to form increasingly complex representations? Is the contained information represented in a compressed format? Using MEG and a combination of decoding and oscillation analyses, I aim to discover what neural activity supports binding during langauge comprehension.
 
-I work with [Prof. Nina Kazanina](https://www.ninakazanina.com/) at University of Geneva and I am a pard of the [Lemanic Neuroscience Doctoral School](https://wp.unil.ch/lemanicneuroscience/).
+I am supervised by [Prof. Nina Kazanina](https://www.ninakazanina.com/) at University of Geneva and I am a part of the [Lemanic Neuroscience Doctoral School](https://wp.unil.ch/lemanicneuroscience/).
