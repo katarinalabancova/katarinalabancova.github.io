@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-research-focus",
-          title: "research focus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is brief version of my CV. You can find the full version in the attached PDF.",
@@ -35,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-binding",
-          title: 'Binding',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
