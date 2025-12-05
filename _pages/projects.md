@@ -1,12 +1,12 @@
 ---
-layout: page
-title: research focus
-permalink: /projects/
-description:
-nav: true
-nav_order: 3
-display_categories: [ongoing work]
-horizontal: false
+# layout: page
+# title: research focus
+# permalink: /projects/
+# description:
+# nav: true
+# nav_order: 3
+# display_categories: [ongoing work]
+# horizontal: false
 ---
 
 <!-- pages/projects.md -->
